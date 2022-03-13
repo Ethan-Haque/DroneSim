@@ -1,1 +1,1 @@
-# DroneSim
+Drone Simulator by Ethan Haque
