@@ -1,1 +1,1 @@
-Drone Simulator by Ethan Haque
+https://ethan-haque.github.io/DroneSim/
